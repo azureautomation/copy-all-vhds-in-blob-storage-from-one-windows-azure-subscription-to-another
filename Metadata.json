@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 5991,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copy-all-vhds-in-blob-storage-from-one-windows-azure-subscription-to-another/master/CopyAllVhdBetweenSubscription.ps1",
+    "DownloadCount": 3479,
+    "Id": "Copy-all-VHDs-in-Blog-829f316e",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 439,
+    "RaterCount": 3,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Starts an asynchronous copy of VHD's to a different storage account.  The storage account can be in the current subscription or in a different subscription.",
+    "Title": "Copy all VHDs in Blob Storage from One Windows Azure Subscription to Another",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/copy-all-vhds-in-blob-storage-from-one-windows-azure-subscription-to-another",
+    "UserTags": "backup"
+}
